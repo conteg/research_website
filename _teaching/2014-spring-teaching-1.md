@@ -12,17 +12,16 @@ location: "Dublin, Ireland"
 Lecturer: Nicola Fontana
 
 • Explain and apply mathematical terminology.
+
+======
 • Formulate economic problems in the language and abstractions of 
 mathematics (and correctly solve them!)
+
+======
+
 • Set-up and solve problems related to mathematical optimization.
 Satisfactory completion of this module will particularly contribute to the development 
 of the following key skills:
 • Abstraction from concrete problems to generic concepts.
 • Problem-solving using quantitative methods
-======
-
-Heading 2
-======
-
-Heading 3
 ======

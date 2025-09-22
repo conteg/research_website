@@ -10,9 +10,9 @@ location: "Dublin, Ireland"
 
 Lecturer: Nicola Fontana
 
+Module Outline
 
 • Explain and apply mathematical terminology
-
 
 • Formulate economic problems in the language and abstractions of 
 mathematics (and correctly solve them!)

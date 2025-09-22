@@ -9,6 +9,8 @@ location: "Dublin, Ireland"
 ---
 
 Lecturer: Nicola Fontana
+
+
 • Explain and apply mathematical terminology
 
 

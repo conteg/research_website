@@ -9,13 +9,13 @@ location: "Dublin, Ireland"
 ---
 
 Lecturer: Nicola Fontana
+• Explain and apply mathematical terminology
 
-• Explain and apply mathematical terminology.
-======
 
 • Formulate economic problems in the language and abstractions of 
-mathematics 
-======
+mathematics (and correctly solve them!)
 
 • Set-up and solve problems related to mathematical optimization.
-======
+Heading 2
+
+

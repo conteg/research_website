@@ -11,8 +11,11 @@ location: "Dublin, Ireland"
 Lecturer: Nicola Fontana
 
 • Explain and apply mathematical terminology.
+======
+
 • Formulate economic problems in the language and abstractions of 
 mathematics 
+======
+
 • Set-up and solve problems related to mathematical optimization.
-• Abstraction from concrete problems to generic concepts.
-• Problem-solving using quantitative methods
+======

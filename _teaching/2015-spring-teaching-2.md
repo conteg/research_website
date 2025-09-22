@@ -8,17 +8,19 @@ date: Fall 2025
 location: "Dublin, Ireland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lecturer Carol Newman
 
-1. Derive econometric estimators for linear regression, panel data and limited dependent variable models
+Module Outline
 
-2. Show the properties of these estimators and understand the underlying assumptions required
+• Derive econometric estimators for linear regression, panel data and limited dependent variable models
 
-3. Derive appropriate tests for the underlying assumptions and correct for violations of these assumptions
+• Show the properties of these estimators and understand the underlying assumptions required
 
-4. Confidently discuss the challenge of identification in empirical research
+• Derive appropriate tests for the underlying assumptions and correct for violations of these assumptions
 
-5. Select the appropriate econometric approach for different data and empirical settings
+• Confidently discuss the challenge of identification in empirical research
 
-6. Use STATA to apply these techniques in practice.
+• Select the appropriate econometric approach for different data and empirical settings
+
+• Use STATA to apply these techniques in practice.
 

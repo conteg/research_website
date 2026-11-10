@@ -17,9 +17,9 @@ The previous Academic Pages template remains outside `docs/` and is not used by 
 - Biography, papers, links, upcoming position, and contact: edit `docs/index.html`.
 - Colors, spacing, typography, and mobile layout: edit `docs/style.css`.
 - Photo: replace `docs/portrait.jpg`.
-- CV: update the two CV links in `docs/index.html`, or link to a PDF uploaded inside `docs/`.
+- CV: replace `docs/files/CV_Conte.pdf` using the same filename.
 
-The CV and papers retain the existing public destinations. Check the collaborators’ names and affiliations before publication; these were carried over from the current website. The abstracts are concise summaries of that website's descriptions.
+The CV is hosted in `docs/files/CV_Conte.pdf`; paper links retain their existing public destinations. Check the collaborators’ names and affiliations before publication; these were carried over from the current website. The full abstracts are reproduced verbatim from the existing website.
 
 ## Custom domain
 

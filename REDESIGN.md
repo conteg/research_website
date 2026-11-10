@@ -19,7 +19,7 @@ The previous Academic Pages template remains outside `docs/` and is not used by 
 - Photo: replace `docs/portrait.jpg`.
 - CV: replace `docs/files/CV_Conte.pdf` using the same filename.
 
-The CV is hosted in `docs/files/CV_Conte.pdf`; paper links retain their existing public destinations. Check the collaborators’ names and affiliations before publication; these were carried over from the current website. The full abstracts are reproduced verbatim from the existing website.
+The CV is hosted in `docs/files/CV_Conte.pdf`; the three supplied paper drafts and Gray Parade slides are hosted alongside it in `docs/files/`. The existing Gray Parade paper link is retained separately. Check the collaborators’ names and affiliations before publication; these were carried over from the current website. The existing three full abstracts are preserved; the education–fertility abstract is reproduced from the supplied paper. Titles match the supplied documents.
 
 ## Custom domain
 
